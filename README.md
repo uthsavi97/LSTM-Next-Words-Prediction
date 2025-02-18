@@ -32,4 +32,12 @@ The model consists of:
 - A Streamlit web application is developed
 - Allows users to input a sequence of words and receive the predicted next word in real-time
 
+## Technologies Used
+- **tensorflow**
+- **pandas**
+- **numpy**
+- **pandas**
+- **streamlit**
+- **nltk**
+
 
